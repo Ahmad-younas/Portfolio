@@ -18,7 +18,7 @@ portfolio/my-app
 
 # change the directory given below and type npm install to install node packages and type node server.js to run the backend '
 portfolio/backend '
-foobar.pluralize('goose')
+
 
 
 ```
